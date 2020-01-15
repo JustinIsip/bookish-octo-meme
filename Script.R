@@ -8,3 +8,6 @@ x <- seq(1,100,2)
 
 Git is terrible 
 #I hate git
+
+I hate undoing things in git
+I love unicorns a heck of a lot 
