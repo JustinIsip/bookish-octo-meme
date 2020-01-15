@@ -5,3 +5,6 @@ my data <- read.csv("howdy.csv")
 x <- seq(1,100,2)
 
 #I love git
+
+Git is terrible 
+#I hate git
